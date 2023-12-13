@@ -1,0 +1,13 @@
+{
+    "enter_login" : "Enter login",
+    "enter_pass" : "Enter password",
+    "enter" : "login",
+    "register" : "register",
+    "news" : "News",
+    "story" : "Story",
+    "our_website" : "Our website (QR)",
+    "profile" : "Profile",
+    "change_name" : "Change name",
+    "change_language" : "Change languagu",
+    "exit" : "Exit"
+}

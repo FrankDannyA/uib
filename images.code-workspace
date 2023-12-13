@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../training_app/assets/images"
+		},
+		{
+			"name": "uib",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

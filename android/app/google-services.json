@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "672936230259",
+    "firebase_url": "https://lib-univesity-default-rtdb.firebaseio.com",
+    "project_id": "lib-univesity",
+    "storage_bucket": "lib-univesity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672936230259:android:1c8a52f8d8abdb7dad1906",
+        "android_client_info": {
+          "package_name": "com.example.uib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VdNUXKJdoRQ3ZVtM3X_bqNwKK1uYq6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
